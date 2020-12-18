@@ -1,0 +1,5 @@
+
+ƒ
+java:S1319V"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¶êÖú
+h	java:S116"SRename this field "_context" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òº€²
+k	java:S116"WRename this field "PRIVATE_MODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š™èo

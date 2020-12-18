@@ -1,0 +1,13 @@
+com/androidhive/sessions/SessionManager.java
+ com.androidhive.sessions.SessionManager
+com/androidhive/sessions/MainActivity.java
+ com.androidhive.sessions.MainActivity
+ com.androidhive.sessions.MainActivity$1
+com/androidhive/sessions/LoginActivity.java
+ com.androidhive.sessions.LoginActivity
+ com.androidhive.sessions.LoginActivity$1
+com/androidhive/sessions/AlertDialogManager.java
+ com.androidhive.sessions.AlertDialogManager
+ com.androidhive.sessions.AlertDialogManager$1
+com/androidhive/sessions/BuildConfig.java
+ com.androidhive.sessions.BuildConfig
